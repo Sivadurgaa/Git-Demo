@@ -1,5 +1,5 @@
-HiI Sivadurga
+Hii Sivadurga
 Welcome to Github
-user name 
-user password
-user email
+user name: 
+user password:
+user email:
